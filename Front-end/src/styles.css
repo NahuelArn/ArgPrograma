@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+}
+
+:root {
+  /* --colorPrincipalFondo: #454a4c; */
+  --colorPrincipalFondo2: #635E5E;
+  --colorSeminegro: #121212;
+  --colorLetraWhite: #bbb6ae;
+}
